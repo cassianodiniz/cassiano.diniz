@@ -11,8 +11,8 @@
       "description": "Pensar, fazer e passar o bastao: planejar (metodologia de 8 fases), auto-prompt (executor + critico Codex GPT, com protocolo de seguranca) e handoff (passagem de bastao entre sessoes)."
     },
     {
-      "name": "claudex-dev",
-      "source": { "source": "github", "repo": "cassianodiniz/claudex-dev" },
+      "name": "claudex-forge",
+      "source": { "source": "github", "repo": "cassianodiniz/claudex-forge" },
       "description": "Template de plugin de desenvolvimento para Claude Code com revisao integrada do Codex — ciclo completo: investigacao, plano, implementacao e revisao."
     }
   ]
