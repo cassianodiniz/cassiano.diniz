@@ -1,0 +1,14 @@
+{
+  "name": "cassiano.diniz",
+  "owner": {
+    "name": "Cassiano Diniz",
+    "email": "cassi.diniz@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "claudex-dev",
+      "source": { "source": "github", "repo": "cassianodiniz/claudex-dev" },
+      "description": "Template de plugin de desenvolvimento para Claude Code com revisao integrada do Codex — ciclo completo: investigacao, plano, implementacao e revisao."
+    }
+  ]
+}
