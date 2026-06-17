@@ -8,7 +8,7 @@
     {
       "name": "dev",
       "source": { "source": "github", "repo": "cassianodiniz/dev-plugin" },
-      "description": "Pensar, fazer e passar o bastao: planejar (metodologia de 8 fases), auto-prompt (executor + critico Codex GPT, com protocolo de seguranca) e handoff (passagem de bastao entre sessoes)."
+      "description": "Pensar, fazer e blindar: planejar (metodologia de 8 fases), auto-think (estudo profundo multi-angulo com confronto Codex), auto-prompt (executor + critico Codex GPT, com protocolo de seguranca), gpt-blindagem (confronto e selo de qualidade) e handoff (passagem de bastao entre sessoes)."
     },
     {
       "name": "claudex-forge",
