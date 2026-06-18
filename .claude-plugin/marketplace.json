@@ -14,6 +14,11 @@
       "name": "claudex-forge",
       "source": { "source": "github", "repo": "cassianodiniz/claudex-forge" },
       "description": "Template de plugin de desenvolvimento para Claude Code com revisao integrada do Codex — ciclo completo: investigacao, plano, implementacao e revisao."
+    },
+    {
+      "name": "design-web-marketing",
+      "source": { "source": "github", "repo": "cassianodiniz/design-web-marketing" },
+      "description": "Landing pages, sites e marketing de conversao de ponta a ponta: um maestro orquestra o caminho (contexto -> oferta -> copy -> construir -> revisar -> publicar) e chama cada skill especialista na hora certa. A voz e o modelo de negocio saem do contexto que voce gera (product-marketing), entao a copy se adapta ao seu negocio. Inclui maestro + product-marketing, offers, copywriting, copy-editing, cro, marketing-psychology e customer-research (adaptadas de coreyhaines31/marketingskills, MIT)."
     }
   ]
 }
